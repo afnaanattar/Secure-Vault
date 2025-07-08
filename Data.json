@@ -1,0 +1,16 @@
+[
+    {
+        "type": "income",
+        "amount": 1000.0,
+        "category": "Salary",
+        "note": "July Payment",
+        "date": "2025-07-08 12:14:34"
+    },
+    {
+        "type": "income",
+        "amount": 1000.0,
+        "category": "Salary",
+        "note": "July Payment",
+        "date": "2025-07-08 12:17:48"
+    }
+]
