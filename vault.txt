@@ -1,0 +1,6 @@
+{
+    "www.google.com": {
+        "username": "afnaan_attar",
+        "password": "123"
+    }
+}
